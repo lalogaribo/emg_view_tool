@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install emg_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+EmgViewTool::Renderer.copyright 'Eduardo Garibo', "All rights reserved"
+```
 
 ## Development
 
